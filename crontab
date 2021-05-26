@@ -1,0 +1,1 @@
+* * * * * bash /pathtofile/auto-start servicename > /dev/null
